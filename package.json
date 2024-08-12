@@ -1,0 +1,28 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "online test for competition exam",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajeshkanna1602/aistudyboost.git"
+  },
+  "keywords": [
+    "online",
+    "exam",
+    "competition",
+    "coaching"
+  ],
+  "author": "rajeshkanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajeshkanna1602/aistudyboost/issues"
+  },
+  "homepage": "https://github.com/rajeshkanna1602/aistudyboost#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
